@@ -15,6 +15,7 @@
 }
 #menu {
   grid-area: m;
+  background-color: rgb(255, 0, 0);
 }
 #content {
   grid-area: c;
